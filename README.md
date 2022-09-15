@@ -6,7 +6,7 @@ Répositoire du mémoire et du livrable produits par **Esteban Sánchez Oeconomo
 
 ### Bibliographie
 
-Sanchez Oeconomo (Esteban), *Du Catalogue Papier Au Tableur Numérique. Une Pipeline Semi-Automatique Pour Former de Étudiants En Sciences Sociales Aux Humanités Numériques*, mémoire de master « Technologies numériques appliquées à l’histoire », dir. Béatrice Joyeux-Prunel et Simon Gabay, Paris, École nationale des chartes, 2022.
+Esteban Sánchez Oeconomo, *Du catalogue papier au tableur numérique. Un pipeline semi-automatique pour former des étudiants en sciences humaines aux humanités numériques*, mémoire de master « Technologies numériques appliquées à l’histoire », dir. Béatrice Joyeux-Prunel et Simon Gabay, École nationale des chartes, 2022.
 
 ### Résumé
 
@@ -20,6 +20,7 @@ Le pipeline développé vise à produire efficacement des données pour la reche
 ### Contenu
 
 Ce répositoire contient les éléments suivants :
-- ```/script_extractionCatalogs``` : dossier contenant le livrable, avec des instructions dans un README dédié
 - Mémoire en format ```.pdf```
-- Dossier ```/memoire_LatEx``` contenant les fichiers LatEx du mémoire
+- ```/script_extractionCatalogs``` : dossier contenant le livrable, avec des instructions dans un README dédié
+- ```/memoire_LatEx``` : dossier contenant les fichiers LatEx du mémoire
+
